@@ -3,7 +3,7 @@
 **MX Zip** adds you capability to add files/folders into zipping archive directly from ExpressionEngine 3;
 
 ## Installation
-* Download the latest version of MX Calculator and extract the .zip to your desktop.
+* Download the latest version of MX Zip and extract the .zip to your desktop.
 * Copy *zip* to */system/user/addons/*
 
 ## Configuration
@@ -95,7 +95,7 @@ This is Communite Edition (CE) add-on.
 
 ## Contributing To MX Zip for ExpressionEngine 3
 
-Your participation to MX Calculator development is very welcome!
+Your participation to MX ZIP development is very welcome!
 
 You may participate in the following ways:
 
