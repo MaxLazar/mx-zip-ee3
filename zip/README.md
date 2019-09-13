@@ -1,6 +1,6 @@
-# MX ZIP#
+# MX ZIP
 
-**MX Zip** adds you capability to add files/folders into zipping archive directly from ExpressionEngine 3;
+**MX Zip** help you create zip archives directly from ExpressionEngine 5;
 
 ## Installation
 * Download the latest version of MX Zip and extract the .zip to your desktop.
@@ -19,8 +19,8 @@ Once the Plugin is installed, you should be able to see it listed in the Add-On 
 	        [themes/profile_themes/]
 	        [themes/cp_themes/classic/classic.css]
 	    {/zip:files}
-	
-	{/exp:zip} 
+
+	{/exp:zip}
 
 ### Parameters
 
@@ -52,7 +52,7 @@ This parameter gives the ability to suppress all the path of the file when extra
 
 This parameter gives ability to return archive name only
 
-*max_size* optional 
+*max_size* optional
 
 *overwrite* optional
 
@@ -60,19 +60,19 @@ overwrite file or not
 
 *direct_output* optional
 
-	direct_output="no" 
+	direct_output="no"
 
 the plugin can sent direct to user or can save package file on the web server
 
 *speed* optional
 
-	speed="500" 
-	
+	speed="500"
+
 Download speed in kb
 
 ### Conditional variables:
 	{if file_limit}
-	
+
 	{/if}
 
 You may use this conditional for displaying a message in the case when size of your files preparing for package more then max_size
@@ -83,7 +83,7 @@ You may use this conditional for displaying a message in the case when size of y
 	{zip:files}
 		[file_or_folder_path,folder_structure4zip]
 	{/zip:files}
-	
+
 A comma separated list of files/folders for packing
 
       file_or_folder_path - file or folder which you want to zip with full or relative server path.
@@ -93,13 +93,13 @@ A comma separated list of files/folders for packing
 ## Support Policy
 This is Communite Edition (CE) add-on.
 
-## Contributing To MX Zip for ExpressionEngine 3
+## Contributing To MX Zip for ExpressionEngine 5
 
 Your participation to MX ZIP development is very welcome!
 
 You may participate in the following ways:
 
-* [Report issues](https://github.com/MaxLazar/mx-zip-ee3/issues)
+* [Report issues](https://github.com/MaxLazar/mx-zip/issues)
 * Fix issues, develop features, write/polish documentation
 Before you start, please adopt an existing issue (labelled with "ready for adoption") or start a new one to avoid duplicated efforts.
 Please submit a merge request after you finish development.
