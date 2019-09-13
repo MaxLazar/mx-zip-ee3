@@ -3,11 +3,8 @@
 **MX Zip** help you create zip archives directly from ExpressionEngine 5;
 
 ## Installation
-* Download the latest version of MX Zip and extract the .zip to your desktop.
-* Copy *zip* to */system/user/addons/*
-
-## Configuration
-Once the Plugin is installed, you should be able to see it listed in the Add-On Manager in your ExpressionEngine Control Panel. Is no needs in any control panel activation or configuration.
+* Place the **zip** folder inside your **user/addons** folder
+* Go to **cp/addons** and install *MX Zip*
 
 ## Template Tags
 {exp:zip}
