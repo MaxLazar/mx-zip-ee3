@@ -1,9 +1,9 @@
 # MX ZIP
 
-![Screenshot](resources/img/mx-zip.png)
+![Screenshot](resources/img/mx-zip-y.png)
 
 
-**MX Zip** help you create zip archives directly from ExpressionEngine 5;
+**MX Zip** help you create zip archives directly from ExpressionEngine 6;
 
 ## Installation
 * Place the **zip** folder inside your **user/addons** folder
@@ -93,7 +93,7 @@ A comma separated list of files/folders for packing
 ## Support Policy
 This is Communite Edition (CE) add-on.
 
-## Contributing To MX Zip for ExpressionEngine 5
+## Contributing To MX Zip for ExpressionEngine 6
 
 Your participation to MX ZIP development is very welcome!
 
